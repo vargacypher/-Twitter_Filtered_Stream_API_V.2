@@ -1,0 +1,6 @@
+-Sistema Operacional Utilizado: CentOS 8.0
+	-Interface: Minimal
+		-Arquitetura: x64 bits
+			-Gerenciamento de pacotes: RPM
+				-Família: Red Hat Enterprise Linux
+					-Núcleo : Linux
