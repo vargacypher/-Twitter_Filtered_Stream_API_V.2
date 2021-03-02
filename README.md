@@ -23,21 +23,20 @@ Será necessário também os seguintes pacotes:
 pip install requests
 pip install flask 
 pip install psycopg2
-pip install time 
 pip install json 
 pip install os
 ```
 
 ## Documentação do projeto
 
-* Conexão com a API: https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/blob/master/FilteredStream_readme.md
-* Queries: https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/blob/master/PostgresDB_Docker/QueriesBanco.md
-* Teste Stream com V.1 da API: https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/tree/master/Filtered_Stream(Dados_Twitter_API_V_1)_VersaoTest
+* Conexão com a API: https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/blob/master/FilteredStream_readme.md
+* Queries: https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/blob/master/PostgresDB_Docker/QueriesBanco.md
+* Teste Stream com V.1 da API: https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/tree/master/Filtered_Stream(Dados_Twitter_API_V_1)_VersaoTest
 
 
 ## Documentação das APIs
 
-* Utilizando a V.2 da API (Projeto Final) : https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/blob/master/Api_Rest/readme.md
+* Utilizando a V.2 da API (Projeto Final) : https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/blob/master/Api_Rest/readme.md
 
 
 ## Documentação Oficial API twitter
@@ -48,13 +47,13 @@ pip install os
 
 ## Documentação de arquitetura
 
-* https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/blob/master/Arquitetura.txt
+* https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/blob/master/Arquitetura.txt
 
 
 ## Documentação Docker
 
-* https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/blob/master/PostgresDB_Docker/README.md
-* UML database: https://github.com/vargacypher/Tweet_Filtered_Stream_API_V.2/blob/master/UML_TwitterDB.pdf
+* https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/blob/master/PostgresDB_Docker/README.md
+* UML database: https://github.com/vargacypher/Twitter_Filtered_Stream_API_V.2/blob/master/UML_TwitterDB.pdf
 
 
 ## Suporte
