@@ -32,7 +32,7 @@ pip install os
 * Conexão com a API: https://github.com/vargacypher/-Twitter_Filtered_Stream_API_V.2/blob/master/FilteredStream_readme.md
 
 * Queries: https://github.com/vargacypher/-Twitter_Filtered_Stream_API_V.2/blob/master/PostgresDB_Docker/QueriesBanco.md
-*
+
 * Teste Stream com V.1 da API: https://github.com/vargacypher/-Twitter_Filtered_Stream_API_V.2/blob/master/Filtered_Stream(Dados_Twitter_API_V_1)_VersaoTest/teste_twitter_v1.py
 
 
