@@ -1,6 +1,6 @@
 # Tweet_Filtered_Stream_API_V.2 Covid & Saude [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
 
-Código para mineração de Tweets com tags sobre Covid e Saúde.
+Código para coleta de Tweets com tags sobre Covid e Saúde.
 
 <p align="center">
   <img src="/shot.png" >
