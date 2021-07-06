@@ -38,7 +38,7 @@ def auth():
 
 #Headers de acesso
 def create_headers(bearer_token): 
-    """  Armazena os dados nos paramentros e os insere no banco de dados definido  """
+   
 #### Corrige os caracteres que estiverem bugado e coloca esse header:
     headers = {"Authorization": f"Bearer {BEARER_TOKEN}", 'Content-Type': 'application/json',}
     # headers = {"Authorization": f"Bearer {BEARER_TOKEN}"}
